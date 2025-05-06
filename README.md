@@ -16,3 +16,7 @@ We also transform variables so the scale of variables doesn't impact the coeffic
 ## Notebook 3:
 Fit Hedonic Regression Models
 This notebook fits the hedonic house price regression models and calculates the model statistics. Six models are fitted which incrementally add different types of predictor variables and interaction effects. Finally, the point data is joined to administrative polygons and exported to fit the final multi level models in R.
+
+## Notebook 4:
+Fit the Multi-level Random Slope and Intercept Model
+This notebook calculates the model coefficients for the final multilevel model and creates a shapefile of air coditioning value residuals to create the final map of the paper.
