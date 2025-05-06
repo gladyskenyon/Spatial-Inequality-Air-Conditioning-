@@ -1,11 +1,10 @@
 # Spatial-Inequality-Air-Conditioning-
-The following repository contains the code and analysis for the research paper titled: The Price of Cool: Using Hedonic Modelling to Assess Spatial Inequalities of Air Conditioning in Madrid.
+The following repository contains the code and analysis for the research paper titled: The Price of Cool: Using Hedonic Modelling to Assess Spatial Inequalities of Air Conditioning in Madrid. The data for the study is not openly available and is provided by idealista as part of a PhD collaboration, thus one year of data that has been publically publised by idealista can be replaced with our data if you would like to replicate the analysis (Madrid_Sale (2).csv)
+
 
 ## Notebook 1:
 Data Preparation
 The following notebook prepares and cleans the housing listings data provided privately by idealista for the analysis of spatial inequalities of air conditioning. Key steps in this notebook include data cleaning, and the spatial join with neighbourhood level census variables to create the dataframe for the hedonic analysis in notebook 3.
-
-The data for the study is not openly available and is provided by idealista as part of a PhD collaboration, thus one year of data that has been publically publised by idealista can be replaced with our data if you would like to replicate the analysis. The results will therefore not be the same.
 
 ## Notebook 2:
 Data Preparation for Hedonic Regression Modelling
